@@ -2,6 +2,8 @@
 
 This lab deals with coding in MIPS Assembly
 
+All coded individually by me.
+
 	Lab 1: High level-to-low level language conversion
 
 	Lab 2: Control Flow (including loops and branches), Inputs and Outputs
