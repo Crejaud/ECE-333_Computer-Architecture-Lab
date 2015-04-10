@@ -13,3 +13,5 @@ All coded individually by me.
 	Lab 4: CPU Structure, Pipeline Programming and Hazards, Exceptions and Interrupts
 
 	Lab 5: Simulating a Cache
+
+	Lab 6: GPU Parallelism and performance
