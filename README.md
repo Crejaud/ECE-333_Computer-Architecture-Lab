@@ -2,6 +2,8 @@
 
 This lab deals with coding in MIPS Assembly
 
+Lab 6 deals with coding in MIPS Assembly and CUDA-PTX ISA
+
 All coded individually by me.
 
 	Lab 1: High level-to-low level language conversion
