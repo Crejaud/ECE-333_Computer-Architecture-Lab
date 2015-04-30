@@ -1,10 +1,10 @@
-# Computer Architecture Lab
+# Computer Architecture Lab (Spring 2015)
 
-This lab deals with coding in MIPS Assembly
+This lab deals with coding in MIPS Assembly.
 
-Lab 6 deals with coding in MIPS Assembly and CUDA-PTX ISA
+Lab 6 deals with coding in MIPS Assembly and CUDA-PTX ISA.
 
-All coded individually by me.
+All coded individually.
 
 	Lab 1: High level-to-low level language conversion
 
